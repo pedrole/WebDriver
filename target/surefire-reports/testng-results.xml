@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-26T18:15:47Z" name="Suite" finished-at="2023-05-26T18:16:44Z" duration-ms="56203">
+    <groups>
+    </groups>
+    <test started-at="2023-05-26T18:15:47Z" name="Test" finished-at="2023-05-26T18:16:44Z" duration-ms="56203">
+      <class name="wdTestNG.HomePageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:wdTestNG.HomePageTest@563e4951]" started-at="2023-05-26T18:16:38Z" name="Setup" finished-at="2023-05-26T18:16:44Z" duration-ms="5283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Test1()[pri:0, instance:wdTestNG.HomePageTest@563e4951]" started-at="2023-05-26T18:16:44Z" name="Test1" finished-at="2023-05-26T18:16:44Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:wdTestNG.HomePageTest@563e4951]" started-at="2023-05-26T18:16:44Z" name="TearDown" finished-at="2023-05-26T18:16:44Z" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- wdTestNG.HomePageTest -->
+      <class name="wdTestNG.SimplilearnLogin">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:wdTestNG.SimplilearnLogin@1fd14d74]" started-at="2023-05-26T18:15:47Z" name="Setup" finished-at="2023-05-26T18:15:53Z" duration-ms="5200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="NegativeTest()[pri:0, instance:wdTestNG.SimplilearnLogin@1fd14d74]" started-at="2023-05-26T18:15:53Z" name="NegativeTest" finished-at="2023-05-26T18:16:09Z" duration-ms="16034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NegativeTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:wdTestNG.SimplilearnLogin@1fd14d74]" started-at="2023-05-26T18:16:09Z" name="TearDown" finished-at="2023-05-26T18:16:09Z" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:wdTestNG.SimplilearnLogin@1fd14d74]" started-at="2023-05-26T18:16:09Z" name="Setup" finished-at="2023-05-26T18:16:15Z" duration-ms="6413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="PositiveTest()[pri:0, instance:wdTestNG.SimplilearnLogin@1fd14d74]" started-at="2023-05-26T18:16:15Z" name="PositiveTest" finished-at="2023-05-26T18:16:38Z" duration-ms="22993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PositiveTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:wdTestNG.SimplilearnLogin@1fd14d74]" started-at="2023-05-26T18:16:38Z" name="TearDown" finished-at="2023-05-26T18:16:38Z" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- wdTestNG.SimplilearnLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

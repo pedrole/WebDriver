@@ -1,0 +1,11 @@
+appTest\FbLogin.class
+appTest\IframeExample.class
+wdTestNG\HomePageTest.class
+appTest\ScreenshotExample.class
+pages\LoginPage.class
+wdTestNG\SimplilearnLogin.class
+appTest\LoginTest.class
+appTest\WindowsExample.class
+testNG\AccountTest.class
+testNG\LoanTest.class
+wdTestNG\BaseClass.class
